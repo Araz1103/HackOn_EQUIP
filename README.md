@@ -7,7 +7,7 @@ Project Name - E.Q.U.I.P
 Team Name: HighOnCaffeine
 Team Members: Araz Sharma, Param Nayar, Ashvin Raghavan
 
-Link to our PPT: 
+Link to our PPT: https://docs.google.com/presentation/d/12w74IB2NknjhuWyws-P4dbuAtcj1kstUJmaNhdEuaiY/edit?usp=sharing
 Team "High on Caffeine" - Presentation
 
 Team Idea/Problem :
